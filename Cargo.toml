@@ -1,0 +1,6 @@
+[package]
+name = "tools-sas"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SAS data step and PROC SQL analytics bridge"
+license = "GPL-3.0-or-later"
