@@ -1,3 +1,4 @@
+#![forbid(unsafe_code)]
 /// SAS data step variable and format model for SigmaOS statistical bridge.
 
 #[derive(Debug, Clone, PartialEq)]
